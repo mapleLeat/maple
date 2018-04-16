@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+<head>
+		<style>/*<![CDATA[*/
+			@page {
+				size: 1000px 800px ;
+				margin: 0px;
+				padding: 0px;
+			}
+		
+			body {
+			  margin: 0;
+
+			}
+/*]]>*/</style>
+	</head>
+	
+	<body>
+		<div style="width: 1000px;height: 800px;margin: auto;background-color: red;">
+		</div>
+	</body>
+</html>
